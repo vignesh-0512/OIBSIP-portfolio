@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+  }
+
+
+.nav-link{
+    color:black !important;
+    position: sticky;
+}
+
+.text{
+    padding-left: 30px;
+    margin-top:100px;
+}
+
+.res-button a:link{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size:20px;
+    padding:5px 5px;
+    padding-top:5px;
+    margin-bottom:1px;   
+    height:40px;
+    width:150px;
+    border-radius:30px;    
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration:none;
+  border-radius: 10px;
+  margin-top:20px; 
+  margin-left: 30px;
+  display:inline-flex;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background-color: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background-color: #55ACEE;
+  color: white;
+  margin-left:3px;
+}
+
+.fa-linkedin {
+  background-color: rgb(16, 156, 243);
+  color: white;
+  margin-left:3px;
+}
+
+.fa-instagram {
+  background-color: #125688;
+  color: white;
+  margin-left:3px;
+}
+
+.fa-github{
+  background-color: black;
+  color:white;
+  margin-left:3px;
+
+}
+
+
+.text h1 span{
+  color:red;
+}
+
+.nav-link{
+  color:black !important;
+  border-bottom:1px solid transparent;
+}
+
+.nav-link:hover{
+  border-bottom:3px solid black;
+}
+
+img{
+  float:right;
+  display: flex;
+  padding-bottom:300px;
+  margin-right:50px;
+}
+
+.text-primary{
+  margin-top:100px;
+  margin-left:30px;
+}
+
+p{
+  margin-left: 30px;
+}
+
+.img-fluid{
+  margin-right:-5px;
+  margin-top:-130px;
+  max-width: 100%;
+  height:auto;
+}
+
+.text-secondary{
+  margin-top:350px;
+  margin-left:30px;
+}
+
+.progress{
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.ski{
+  margin-top:500px;
+}
+
+
+.html{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+.css{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+.bootstrap{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+.c{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+.Python{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+.linux{
+  margin-left: 30px;
+  margin-bottom:-20px;
+}
+
+body{
+  padding-bottom: 30px;
+}
